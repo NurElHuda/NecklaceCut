@@ -1,0 +1,195 @@
+
+Esquid:S1199ô"-Extract this nested code block into a method.(ÎŞèº
+Esquid:S1199ƒ"-Extract this nested code block into a method.(îÒ«Â
+@squid:S1148ƒ"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199Ä"-Extract this nested code block into a method.(îÒ«Â
+Esquid:S1199œ"-Extract this nested code block into a method.(îÒ«Â
+msquid:S00116"URename this field "JNecklace1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¡
+Jsquid:S1199à"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+@squid:S1148Û	"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148«	"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148ƒ"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199à"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+Jsquid:S1199³	"-Extract this nested code block into a method.(ê×Êüÿÿÿÿ
+Jsquid:S1199Ç
+"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+Jsquid:S1199µ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck´""Add a default case to this switch.(¸ÌÑ
+Esquid:S1199œ
+"-Extract this nested code block into a method.(îÒ«Â
+@squid:S1604«"(Make this anonymous inner class a lambda(¼İ”«
+@squid:S1604Â
+"(Make this anonymous inner class a lambda(ä¤¹
+Jsquid:S1199à	"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+@squid:S1148—	"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+Esquid:S1199À"-Extract this nested code block into a method.(Ó‚ï
+@squid:S1148—"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Isquid:S11993"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+@squid:S1148«"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199³"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+Esquid:S1199³"-Extract this nested code block into a method.(ÎŞèº
+Esquid:S1199ô"-Extract this nested code block into a method.(ÎŞèº
+xsquid:S00116"[Rename this field "JCuttedNecklace1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è´ıÿÿÿÿ
+@squid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck´""Add a default case to this switch.(¸ÌÑ
+@squid:S1148—"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+P"squid:SwitchLastCaseIsDefaultCheck4""Add a default case to this switch.(¸ÌÑ
+@squid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199ˆ"-Extract this nested code block into a method.(Ó‚ï
+Jsquid:S1199µ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+@squid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148«"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+Isquid:S1199`"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+@squid:S1148—"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+@squid:S1148Ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+^squid:UselessImportCheck"5Remove this unused import 'java.awt.event.ItemEvent'.(¬§„Âÿÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+@squid:S1148«"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199´"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckÆ
+""Add a default case to this switch.(îû¾’ÿÿÿÿÿ
+Esquid:S1199³"-Extract this nested code block into a method.(Ó‚ï
+Q"squid:SwitchLastCaseIsDefaultCheck¯""Add a default case to this switch.(¸ÌÑ
+osquid:S3776!"SRefactor this method to reduce its Cognitive Complexity from 276 to the 15 allowed.(ÉÔ¥ºüÿÿÿÿ
+@squid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Dsquid:S1199t"-Extract this nested code block into a method.(ÎŞèº
+Jsquid:S1199ß
+"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+@squid:S1148«
+"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck´""Add a default case to this switch.(¸ÌÑ
+@squid:S1148Ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Asquid:S1948"*Make "necklace" transient or serializable.(Íå›‡
+Jsquid:S1199à"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+@squid:S1148ƒ"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199ˆ"-Extract this nested code block into a method.(Ó‚ï
+Esquid:S1199÷
+"-Extract this nested code block into a method.(Ó‚ï
+@squid:S1148—"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+bsquid:UnusedPrivateMethodÍ"7Remove this unused private "createUIComponents" method.(Á›°çıÿÿÿÿ
+@squid:S1148Ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Fsquid:S1948"*Make "document" transient or serializable.(ÑÊÜ™ùÿÿÿÿ
+@squid:S1148—"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+vsquid:S1450"ZRemove the "centerPanel" field and declare it as a local variable in the relevant methods.(Ş—¶³üÿÿÿÿ
+?squid:S1148o"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+Esquid:S1199ˆ	"-Extract this nested code block into a method.(Ó‚ï
+Esquid:S1199œ"-Extract this nested code block into a method.(îÒ«Â
+^squid:HiddenFieldCheck®";Rename "methode" which hides the field declared at line 29.(¤§è¾
+Jsquid:S1199à"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+@squid:S1148Ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+@squid:S1148ƒ"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199µ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+@squid:S1148Ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199œ"-Extract this nested code block into a method.(îÒ«Â
+Isquid:S11995"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+isquid:S1192Ş"LDefine a constant instead of duplicating this literal "Courier New" 3 times.(ò¡‚üÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck´""Add a default case to this switch.(¸ÌÑ
+@squid:S1148—"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199ô"-Extract this nested code block into a method.(ÎŞèº
+Q"squid:SwitchLastCaseIsDefaultCheck´	""Add a default case to this switch.(¸ÌÑ
+@squid:S1148Ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148—"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199ô	"-Extract this nested code block into a method.(ÎŞèº
+Esquid:S1199¼"-Extract this nested code block into a method.(ÎŞèº
+lsquid:S00100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ ¨úúÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+@squid:S1148«"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck´""Add a default case to this switch.(¸ÌÑ
+Jsquid:S1199Ó
+"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+bsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(øİ¢?
+Esquid:S1199ô"-Extract this nested code block into a method.(ÎŞèº
+Esquid:S1199ˆ"-Extract this nested code block into a method.(Ó‚ï
+Esquid:S1199œ"-Extract this nested code block into a method.(îÒ«Â
+@squid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199ô"-Extract this nested code block into a method.(ÎŞèº
+Jsquid:S1199³"-Extract this nested code block into a method.(ÿÅÖ²ÿÿÿÿÿ
+@squid:S1148ƒ"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199œ	"-Extract this nested code block into a method.(îÒ«Â
+Jsquid:S1199µ	"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+wsquid:S1450"[Remove the "optionsPanel" field and declare it as a local variable in the relevant methods.(àîµûÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck´""Add a default case to this switch.(¸ÌÑ
+Esquid:S1199œ"-Extract this nested code block into a method.(îÒ«Â
+lsquid:S00100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–­Œßúÿÿÿÿ
+lsquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡œĞ—ıÿÿÿÿ
+Esquid:S1199ô"-Extract this nested code block into a method.(ÎŞèº
+@squid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199à"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+@squid:S1148ï	"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148Ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Isquid:S1199L"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Csquid:S1948"'Make "style" transient or serializable.(Õµ¶‰ıÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199µ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+Esquid:S1199ô"-Extract this nested code block into a method.(ÎŞèº
+Jsquid:S1199µ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+Jsquid:S1199µ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+Esquid:S1199³"-Extract this nested code block into a method.(­Ó–Ô
+@squid:S1148ƒ"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck´""Add a default case to this switch.(¸ÌÑ
+Jsquid:S1199à"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+Esquid:S1199ˆ"-Extract this nested code block into a method.(Ó‚ï
+Esquid:S1199ˆ
+"-Extract this nested code block into a method.(Ó‚ï
+Esquid:S1199"-Extract this nested code block into a method.(ô‹Êâ
+@squid:S1148«"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199à"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+Jsquid:S1199µ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+Esquid:S1199ˆ"-Extract this nested code block into a method.(Ó‚ï
+Esquid:S1199³"-Extract this nested code block into a method.(îÒ«Â
+tsquid:S1450"]Remove the "choosedMethode" field and declare it as a local variable in the relevant methods.(ÖâÌ
+@squid:S1148«"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+psquid:S1450"YRemove the "statsPanel" field and declare it as a local variable in the relevant methods.(±¿ÀÂ
+?squid:S1148["#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheck2""Add a default case to this switch.(îû¾’ÿÿÿÿÿ
+Esquid:S1199ë
+"-Extract this nested code block into a method.(ÎŞèº
+@squid:S1148Ã	"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199ˆ"-Extract this nested code block into a method.(Ó‚ï
+@squid:S1148—"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199ô"-Extract this nested code block into a method.(ÎŞèº
+@squid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199³"-Extract this nested code block into a method.(ô‹Êâ
+@squid:S1148ƒ	"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199à"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+Jsquid:S1199¸"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+Jsquid:S1199µ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'java.awt.event.ItemListener'.(×ğ¿ıÿÿÿÿ
+@squid:S1148«"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Jsquid:S1199°"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+@squid:S1148ƒ"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148ƒ
+"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+<squid:S1948"%Make "cut" transient or serializable.(à‹Âã
+Jsquid:S1199³"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+Psquid:S1068"4Remove this unused "JCuttedNecklace1" private field.(è´ıÿÿÿÿ
+Jsquid:S1135Î"2Complete the task associated to this TODO comment.(¡ç‚Ï
+@squid:S1148«"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199œ"-Extract this nested code block into a method.(îÒ«Â
+Jsquid:S1199Ì	"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+@squid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199›"-Extract this nested code block into a method.(­Ó–Ô
+Esquid:S1199œ"-Extract this nested code block into a method.(îÒ«Â
+Esquid:S1199ˆ"-Extract this nested code block into a method.(Ó‚ï
+Q"squid:SwitchLastCaseIsDefaultCheck´""Add a default case to this switch.(¸ÌÑ
+Esquid:S1199œ"-Extract this nested code block into a method.(îÒ«Â
+@squid:S1148ƒ"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+?squid:S1148C"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148Ã"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148—
+"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Esquid:S1199ˆ"-Extract this nested code block into a method.(Ó‚ï
+@squid:S1148ï"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ

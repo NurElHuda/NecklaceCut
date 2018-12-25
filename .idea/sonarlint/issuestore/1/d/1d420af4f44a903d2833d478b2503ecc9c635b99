@@ -1,0 +1,21 @@
+
+bsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(Ðª¦Ï
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(šê§Œ8ž¨°ê,
+Rsquid:S18547";Remove this useless assignment to local variable "myFrame".(ñ¹±Ç
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ðÉÌÚ
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(åÖŒê8ž¨°ê,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½†ûÐûÿÿÿÿ
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(Ú—¾Ûýÿÿÿÿ
+isquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(¯áÝà8¢ˆ§°ê,
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡±ºÄ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÕèÍÛ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»Ÿµ£
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒä€ 
+1squid:S1220""Move this file to a named package.
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(þœ›Ëþÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö Œ£ùÿÿÿÿ
+Csquid:S14817",Remove this unused "myFrame" local variable.(ñ¹±Ç
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ž¬µÝ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú¾þñ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§Èª±þÿÿÿÿ

@@ -1,0 +1,75 @@
+
+P
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(©…¸Å
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+P
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ªÛá¹
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+osquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÎóàÇıÿÿÿÿ
+dsquid:S00112Ì"FDefine and throw a dedicated exception instead of using a generic one.(Ö¦šúÿÿÿÿ
+U
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+P
+squid:S106“"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+Csquid:S1905"&Remove this unnecessary cast to "int".( ²¨“úÿÿÿÿ
+P
+squid:S106×"9Replace this use of System.out or System.err by a logger.(€º×­
+Csquid:S1068",Remove this unused "necklace" private field.(Íå›‡
+P
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ªÛá¹
+jsquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(È›¨Ö
+P
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(¿×êÓ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ô¹¾
+U
+squid:S106•"9Replace this use of System.out or System.err by a logger.(–Ñ¶èøÿÿÿÿ
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+dsquid:S00112Â"FDefine and throw a dedicated exception instead of using a generic one.(Ö¦šúÿÿÿÿ
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+hsquid:S1206ä"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+Xsquid:UselessImportCheck"4Remove this unused import 'javafx.scene.shape.Line'.( ó×Ä
+U
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(å‹Ù•ûÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.awt.geom.Line2D'.(ìôÆÆ
+P
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(¿×êÓ
+P
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(Û®÷â
+_squid:S4034"HReplace this "filter().findFirst().isPresent()" chain with "anyMatch()".(‰Âğ;
+P
+squid:S106´"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+Jsquid:S1135ë"2Complete the task associated to this TODO comment.(…ïœ†
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Ë×úÿÿÿÿ
+squid:S1319÷"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ïø—ıùÿÿÿÿ
+U
+squid:S106„"9Replace this use of System.out or System.err by a logger.(íë›Áûÿÿÿÿ
+P
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+T
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O
+squid:S106p"9Replace this use of System.out or System.err by a logger.(ëà Ü
+nsquid:S1450"WRemove the "necklace" field and declare it as a local variable in the relevant methods.(Íå›‡
+osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(×„°ûÿÿÿÿ
+9squid:S1643œ"Use a StringBuilder instead.(âŒ…Âùÿÿÿÿ
+T
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+U
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+9squid:S1643›"Use a StringBuilder instead.(¹Íø¢øÿÿÿÿ
+9squid:S1643"Use a StringBuilder instead.(ŸÅ¯ÿÿÿÿÿ
+xsquid:S11929"aDefine a constant instead of duplicating this literal "--------------------------------" 5 times.(òÔÇÍ
+U
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O
+squid:S106n"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+T
+squid:S106o"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ

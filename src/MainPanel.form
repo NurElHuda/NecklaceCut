@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="MainPanel">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="1000" height="700"/>
+    </constraints>
+    <properties>
+      <background color="-1"/>
+      <font name="Courier New" size="16"/>
+      <minimumSize width="800" height="582"/>
+      <preferredSize width="1100" height="582"/>
+    </properties>
+    <border type="line">
+      <color color="-16777216"/>
+    </border>
+    <children>
+      <grid id="1e1af" binding="optionsPanel" layout-manager="FlowLayout" hgap="80" vgap="20" flow-align="1">
+        <constraints border-constraint="North"/>
+        <properties>
+          <minimumSize width="1100" height="80"/>
+          <preferredSize width="1100" height="80"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="35209" class="javax.swing.JComboBox" binding="benchmarckComboBox">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <minimumSize width="200" height="40"/>
+              <model>
+                <item value="Select a Benchmark.."/>
+                <item value="Benchmark 01"/>
+                <item value="Benchmark 02"/>
+                <item value="Benchmark 03"/>
+                <item value="Benchmark 04"/>
+                <item value="Benchmark 05"/>
+                <item value="Benchmark 06"/>
+                <item value="Benchmark 07"/>
+                <item value="Benchmark 08"/>
+                <item value="Benchmark 09"/>
+                <item value="Benchmark 10"/>
+              </model>
+              <preferredSize width="230" height="40"/>
+            </properties>
+            <clientProperties>
+              <html.disable class="java.lang.Boolean" value="false"/>
+            </clientProperties>
+          </component>
+          <component id="d3100" class="javax.swing.JComboBox" binding="solvingMethodeComboBox">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <minimumSize width="200" height="40"/>
+              <model>
+                <item value="Select a solving methode.."/>
+                <item value="Width"/>
+                <item value="Depth"/>
+                <item value="Random"/>
+                <item value="Heuristic 01: Mannhatten's D"/>
+                <item value="Heuristic 02: Euclidien's D"/>
+                <item value="Heuristic 03: Hamming's D"/>
+              </model>
+              <preferredSize width="230" height="40"/>
+            </properties>
+          </component>
+          <component id="f2cb1" class="javax.swing.JButton" binding="runButton">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <minimumSize width="88" height="40"/>
+              <preferredSize width="88" height="40"/>
+              <text value="Run"/>
+            </properties>
+          </component>
+          <component id="6edde" class="javax.swing.JButton" binding="clearButton">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <minimumSize width="88" height="40"/>
+              <preferredSize width="88" height="40"/>
+              <text value="Clear"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="12fa0" binding="statsPanel" layout-manager="FlowLayout" hgap="5" vgap="10" flow-align="1">
+        <constraints border-constraint="South"/>
+        <properties>
+          <minimumSize width="1100" height="200"/>
+          <preferredSize width="1100" height="200"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <scrollpane id="239d5">
+            <constraints/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="4c781" class="javax.swing.JTextPane" binding="statsTextPane">
+                <constraints/>
+                <properties>
+                  <background color="-1"/>
+                  <editable value="false"/>
+                  <font name="Courier New" size="14"/>
+                  <minimumSize width="1050" height="180"/>
+                  <preferredSize width="1050" height="180"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </scrollpane>
+        </children>
+      </grid>
+      <grid id="e3fb1" binding="centerPanel" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <minimumSize width="1100" height="300"/>
+          <preferredSize width="1100" height="300"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="badcf" binding="necklacePanel" layout-manager="FlowLayout" hgap="25" vgap="25" flow-align="1">
+            <constraints/>
+            <properties>
+              <minimumSize width="1000" height="150"/>
+              <preferredSize width="1000" height="150"/>
+            </properties>
+            <border type="none"/>
+            <children/>
+          </grid>
+          <grid id="79f05" binding="choosedMethode" layout-manager="FlowLayout" hgap="25" vgap="14" flow-align="1">
+            <constraints/>
+            <properties>
+              <minimumSize width="1000" height="50"/>
+              <preferredSize width="1000" height="50"/>
+            </properties>
+            <border type="none">
+              <color color="-16777216"/>
+            </border>
+            <children>
+              <component id="aba7e" class="javax.swing.JTextArea" binding="solvingMethodeTextArea" default-binding="true">
+                <constraints/>
+                <properties>
+                  <background color="-855310"/>
+                  <columns value="50"/>
+                  <disabledTextColor color="-16777216"/>
+                  <doubleBuffered value="true"/>
+                  <editable value="false"/>
+                  <enabled value="false"/>
+                  <font name="Courier New" size="20"/>
+                  <lineWrap value="false"/>
+                  <rows value="1"/>
+                  <text value="Solving Methode  :  "/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="6da68" binding="cuttedNecklacePanel" layout-manager="FlowLayout" hgap="25" vgap="25" flow-align="1">
+            <constraints/>
+            <properties>
+              <minimumSize width="1000" height="150"/>
+              <name value="hh"/>
+              <preferredSize width="1000" height="150"/>
+            </properties>
+            <border type="none"/>
+            <children/>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
